@@ -1,16 +1,6 @@
 # Rack Routes and GET Params
 
 We've provided the code for a basic list of items. Now it's your turn to extend it.
-Do your work in `app/application.rb`.
-
-## Vocabulary Word: "Route"
-
-In applications built on Rack, we use the noun "route" to to refer to a path
-that the application has a special response to.
-
-Thus the `/shoes` "route" shows information about shoes. The `/profile` "route"
-shows information about the logged-in user. The `/logout` route does something
-to delete some information that let the server know the user was logged in.
 
 ## Instructions
 
